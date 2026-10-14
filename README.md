@@ -1,7 +1,11 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey!!%2C%20I am%20grepboy%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Hacker%20%7C%20Red%20Teamer%20%7C%20Security%20Researcher&descAlignY=55&descSize=18" />
+</p>
 
-# DARSHIL VYAS
-### **Cybersecurity Consultant** · **VAPT Specialist** · **Red Teamer**
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4C4C&center=true&vCenter=true&random=false&width=650&lines=Red+Teamer+%26+Penetration+Tester;Vulnerability+Assessment+and+Penetration+Testing;Cyber+Artist+%26+Security+Researcher;Happy+Hacking%2C+Everyone!" alt="Typing SVG" />
+</p>
 
 > *"Every system reveals its truth under pressure — I make sure the truth is found before the breach does."*
 
