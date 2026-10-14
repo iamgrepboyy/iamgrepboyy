@@ -1,7 +1,7 @@
 <div align="center">
 
 # DARSHIL VYAS
-### **Cybersecurity Consultant** · **VAPT Specialist** · **Digital Forensics Analyst**
+### **Cybersecurity Consultant** · **VAPT Specialist** · **Red Teamer**
 
 > *"Every system reveals its truth under pressure — I make sure the truth is found before the breach does."*
 
