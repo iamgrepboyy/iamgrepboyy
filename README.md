@@ -10,10 +10,7 @@
 
 > *"Every system reveals its truth under pressure — I make sure the truth is found before the breach does."*
 
-[LinkedIn](https://www.linkedin.com/in/iamgrepboy/) │ [GitHub](https://github.com/iamgrepboyy)
-
 <p align="center">
-  <img src="https://img.shields.io/badge/IDENTIFIER-@iamgrepboy-050508?style=for-the-badge&logo=github&logoColor=10B981" />
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-050508?style=for-the-badge&logo=statuspage&logoColor=10B981" />
   <img src="https://img.shields.io/badge/LOCATION-AHMEDABAD,_INDIA-050508?style=for-the-badge&logo=googlemaps&logoColor=38BDF8" />
 </p>
@@ -45,6 +42,20 @@ vuln_validation = test(findings, exploitability, reproducibility);
 control_gate    = enforce(least_privilege, segmentation, detection);
 forensics_log   = preserve(evidence, timeline, root_cause);
 ```
+
+## 🤝 Connect With Me
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/iamgrepboy/">
+    <img src="https://img.shields.io/badge/LinkedIn-iamgrepboy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/im-rootkid">
+    <img src="https://img.shields.io/badge/GitHub-iamgrepboyy-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:cyber.rootkid@gmail.com">
+    <img src="https://img.shields.io/badge/iamgrepboy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&section=footer&reversal=true&text=%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%90+Know+Hacking+but+No+Hacking+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%A4%96&textBg=false&fontSize=35&fontAlign=48&fontAlignY=44&animation=scaleIn&rotate=0&strokeWidth=0&descSize=23&descAlign=38&descAlignY=70" />
