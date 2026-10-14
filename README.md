@@ -46,7 +46,6 @@ control_gate    = enforce(least_privilege, segmentation, detection);
 forensics_log   = preserve(evidence, timeline, root_cause);
 ```
 
-<!-- Footer banner placed outside the code fence so it renders as an image -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&section=footer&reversal=true&text=%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%90+Know+Hacking+but+No+Hacking+%F0%9F%91%A8%E2%80%8D+%F0%9F%91%A6%E2%80%8D%E2%9C%8D" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&section=footer&reversal=true&text=Know+Hacking%2C+No+Hacking&textBg=false&fontSize=62&fontFamily=IBM+Plex+Mono&fontWeight=700&width=1200" />
 </p>
