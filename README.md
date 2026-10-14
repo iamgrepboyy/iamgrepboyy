@@ -1,5 +1,6 @@
+<!-- Animated Header Banner -->
 <p align="center">
-  https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&section=header&reversal=false&text=Hey%2C+I+am+grepboy+%F0%9F%91%8B%F0%9F%8F%BB&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=23&descAlign=38&descAlignY=70
+  <img src=https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&section=header&reversal=false&text=Hey%2C+I+am+grepboy+%F0%9F%91%8B%F0%9F%8F%BB&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=23&descAlign=38&descAlignY=70](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=true&text=Hey%2C+This+side+iamgrepboy+%F0%9F%91%8B%F0%9F%8F%BB&textBg=false&fontSize=46&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=23&descAlign=38&descAlignY=70 />
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4C4C&center=true&vCenter=true&random=false&width=650&lines=Red+Teamer+%26+Penetration+Tester;Vulnerability+Assessment+and+Penetration+Testing;Cyber+Artist+%26+Security+Researcher;Happy+Hacking%2C+Everyone!" alt="Typing SVG" />
