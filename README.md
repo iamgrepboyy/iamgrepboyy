@@ -44,3 +44,8 @@ risk_vector   = assess(asset, exposure, business_impact);
 vuln_validation = test(findings, exploitability, reproducibility);
 control_gate  = enforce(least_privilege, segmentation, detection);
 forensics_log = preserve(evidence, timeline, root_cause);
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&section=footer&reversal=true&text=%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%90+Know+Hacking+but+No+Hacking+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%A4%96&textBg=false&fontSize=35&fontAlign=48&fontAlignY=44&animation=scaleIn&rotate=0&strokeWidth=0&descSize=23&descAlign=38&descAlignY=70" />
+</p>
