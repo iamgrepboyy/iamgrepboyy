@@ -1,9 +1,11 @@
 <!-- Animated Header Banner -->
 <p align="center">
-  <img src= https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&section=header&reversal=true&text=Hey%2C+This+side+iamgrepboy+%F0%9F%91%8B%F0%9F%8F%BB&textBg=false&fontSize=41&fontAlign=48&fontAlignY=44&animation=fadeIn&rotate=0&strokeWidth=0&descSize=23&descAlign=38&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&section=header&reversal=true&text=Hey%2C+This+side+iamgrepboy+%F0%9F%91%8B%F0%9F%8F%BB&textBg=false&fontSize=41&fontFamily=IBM+Plex+Mono&fontWeight=700" />
+</p>
+
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4C4C&center=true&vCenter=true&random=false&width=650&lines=Red+Teamer+%26+Penetration+Tester;Vulnerability+Assessment+and+Penetration+Testing;Cyber+Artist+%26+Security+Researcher;Happy+Hacking%2C+Everyone!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4C4C&center=true&vCenter=true&random=false&width=650&lines=Red+Teamer+%26+Penetration+Tester;Vulnerability+Researcher+%26+Security+Consultant;Digital+Forensics+%26+Incident+Response;Cloud+%26+Infrastructure+Security;Malware+Analysis+%26+Reverse+Engineering" />
 </p>
 
 > *"Every system reveals its truth under pressure — I make sure the truth is found before the breach does."*
@@ -18,11 +20,9 @@
 
 ---
 
-</div>
-
 ## ABOUT ME & WHAT I DO
 
-Hi, I am **Darshil Vyas** (known online as **`iamgrepboy`**). I am a cybersecurity consultant with a strong focus on **Vulnerability Assessment & Penetration Testing (VAPT)**, **Digital Forensics**, **Application Security**, and **Risk Reduction**.
+Hi, I am **Darshil Vyas** (known online as **`iamgrepboy`**). I am a cybersecurity consultant with a strong focus on **Vulnerability Assessment & Penetration Testing (VAPT)**, **Digital Forensics**, **Incident Response**, **Threat Intelligence**, and **Security Engineering**.
 
 I work across:
 * **Web application security**
@@ -40,12 +40,12 @@ I work across:
 
 ```rust
 // Operational model for trusted security engineering
-risk_vector   = assess(asset, exposure, business_impact);
+risk_vector     = assess(asset, exposure, business_impact);
 vuln_validation = test(findings, exploitability, reproducibility);
-control_gate  = enforce(least_privilege, segmentation, detection);
-forensics_log = preserve(evidence, timeline, root_cause);
----
+control_gate    = enforce(least_privilege, segmentation, detection);
+forensics_log   = preserve(evidence, timeline, root_cause);
+```
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&section=footer&reversal=true&text=%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%90+Know+Hacking+but+No+Hacking+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%A4%96&textBg=false&fontSize=35&fontAlign=48&fontAlignY=44&animation=scaleIn&rotate=0&strokeWidth=0&descSize=23&descAlign=38&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&section=footer&reversal=true&text=%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%90+Know+Hacking+but+No+Hacking+%F0%9F%91%A8%E2%80%8D+%F0%9F%91%A6%E2%80%8D%E2%9C%8D" />
 </p>
