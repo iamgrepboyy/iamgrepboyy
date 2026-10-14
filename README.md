@@ -8,7 +8,7 @@
 [LinkedIn](https://www.linkedin.com/in/iamgrepboy/) │ [GitHub](https://github.com/iamgrepboyy)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IDENTIFIER-@iamgrepboyy-050508?style=for-the-badge&logo=github&logoColor=10B981" />
+  <img src="https://img.shields.io/badge/IDENTIFIER-@iamgrepboy-050508?style=for-the-badge&logo=github&logoColor=10B981" />
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-050508?style=for-the-badge&logo=statuspage&logoColor=10B981" />
   <img src="https://img.shields.io/badge/LOCATION-AHMEDABAD,_INDIA-050508?style=for-the-badge&logo=googlemaps&logoColor=38BDF8" />
 </p>
