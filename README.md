@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey!!%2C%20I am%20grepboy%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Hacker%20%7C%20Red%20Teamer%20%7C%20Security%20Researcher&descAlignY=55&descSize=18" />
-</p>
-
+  https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&section=header&reversal=false&text=Hey%2C+I+am+grepboy+%F0%9F%91%8B%F0%9F%8F%BB&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=23&descAlign=38&descAlignY=70
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4C4C&center=true&vCenter=true&random=false&width=650&lines=Red+Teamer+%26+Penetration+Tester;Vulnerability+Assessment+and+Penetration+Testing;Cyber+Artist+%26+Security+Researcher;Happy+Hacking%2C+Everyone!" alt="Typing SVG" />
