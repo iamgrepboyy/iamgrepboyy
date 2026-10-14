@@ -19,7 +19,7 @@
 
 ## ABOUT ME & WHAT I DO
 
-Hi, I am **Darshil Vyas** (known online as **`iamgrepboy`**). I am a cybersecurity consultant with a strong focus on **Vulnerability Assessment & Penetration Testing (VAPT)**, **Digital Forensics**, **Incident Response**, **Threat Intelligence**, and **Security Engineering**.
+Hi, I am **Darshil Vyas** (known online as **`iamgrepboy`**). I am a cybersecurity consultant with a strong focus on **Vulnerability Assessment & Penetration Testing (VAPT)** and **Red Teaming**.
 
 I work across:
 * **Web application security**
